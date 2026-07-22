@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm Abhishek Chaudhari
+</h1>
 
-<!--
-**Abhi-786-coder/Abhi-786-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Backend Engineer • AI Research • Distributed Systems
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Machine+Learning+Enthusiast;LeetCode+Problem+Solver;Always+Learning+Something+New"/>
+
+</p>
