@@ -17,3 +17,25 @@ Backend Engineer • AI Research • Distributed Systems
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=58A6FF&style=flat"/>
 
 </p>
+
+## 💻 About Me
+
+```bash
+> whoami
+
+Abhishek Chaudhari
+
+Computer Science Student @ SPIT
+
+Interests
+├── Backend Engineering
+├── Distributed Systems
+├── Artificial Intelligence
+├── Data Science
+└── System Design
+
+Currently Building
+├── Stock Market Simulation
+├── Backend APIs
+└── Full Stack Applications
+```
