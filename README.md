@@ -12,11 +12,11 @@ Backend Engineer • AI Research • Distributed Systems
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=58A6FF&style=flat"/>
 
-</p>
+</p> -->
 
 ## 💻 About Me
 
