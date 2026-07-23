@@ -39,27 +39,7 @@ Currently Building
 ## ⚡ Tech Stack
 
 <p align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode,postman" />
-
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,html,css,react,nextjs,tailwind,vite,spring,nodejs,express,mysql,mongodb,redis,docker,aws,linux,git,github,postman,vscode,idea&perline=9" />
 </p>
 
 
