@@ -39,10 +39,8 @@ Currently Building
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,html,css,react,nextjs,tailwind,vite,spring,nodejs,express,mysql,mongodb,redis,docker,aws,linux,git,github,postman,vscode,idea&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,html,css,react,nextjs,tailwind,spring,nodejs,express,mysql,mongodb,redis,docker,aws,linux,git,github,postman,vscode,idea&theme=dark&perline=8" />
 </p>
-
-
 
 ## 📊 GitHub Analytics
 
